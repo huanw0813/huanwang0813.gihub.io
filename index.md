@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Homepage of Huan Wang
 
 You can use the [editor on GitHub](https://github.com/huanw0813/huanwang0813.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
